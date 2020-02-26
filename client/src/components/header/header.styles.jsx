@@ -17,11 +17,11 @@ export const HeaderContainer = styled.div`
 
 export const LogoContainer = styled(Link)`
   height: 100%;
-  width: 70px;
-  padding: 25px;
+  width: 250px;
+  padding: 17px 0 17px 10px;
 
   @media screen and (max-width: 800px) {
-    width: 50px;
+    width: 100px;
     padding: 0;
   }
 `;
